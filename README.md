@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nesrineste
 - 👀 I’m interested in C#, unity
 - 🌱 I’m currently learning it
-- 💞️ I’m looking to collaborate on with knowledge about C3,unity
+- 💞️ I’m looking to collaborate on with knowledge about C#,unity
 - 📫 How to reach me nesrineste@yahoo.com
 
 <!---
